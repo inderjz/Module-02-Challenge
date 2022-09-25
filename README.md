@@ -22,5 +22,9 @@ In the Contact Me section I have provided my gmail and my phone number and I hav
 
 Whenever the website is deployed on various screen sizes it will adapt to those screens. Whenever this application is deployed on smaller screens the navigaiton links will go into the three bars menu and when you click on it the navigation links will be visible there. The font on the home page will get smaller, and on about me section the font will be fully visible but it will be shrink into more lines and when you get to My Services and My Work section they will align in a block view and in the end the copyright font will also become smaller.
 
+##Deployed Link
+
+https://dainty-daffodil-172ed9.netlify.app/
+
 - - -
 © 2022 Inderjit Singh brand. Confidential and Proprietary. All Rights Reserved.
