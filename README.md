@@ -18,5 +18,9 @@ In the My Work section theres also three different applications and when you hov
 
 In the Contact Me section I have provided my gmail and my phone number and I have also included the link to my social media accounts because I don't social media enough I have just decided to include my GitHub profile link and whenever you take your cursor over each of the logo of the applications they will come up and the color of the application will change. 
 
+##Responsive Layout
+
+Whenever the website is deployed on various screen sizes it will adapt to those screens. Whenever this application is deployed on smaller screens the navigaiton links will go into the three bars menu and when you click on it the navigation links will be visible there. The font on the home page will get smaller, and on about me section the font will be fully visible but it will be shrink into more lines and when you get to My Services and My Work section they will align in a block view and in the end the copyright font will also become smaller.
+
 - - -
 © 2022 Inderjit Singh brand. Confidential and Proprietary. All Rights Reserved.
